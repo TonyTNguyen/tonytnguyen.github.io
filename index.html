@@ -28,6 +28,11 @@
 
   <title>artimus_web</title>
   <link rel="manifest" href="manifest.json">
+
+  <script src="https://cdn.jsdelivr.net/npm/tau_core@8/js/flutter_sound/flutter_sound.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/tau_core@8/js/flutter_sound/flutter_sound_player.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/tau_core@8/js/flutter_sound/flutter_sound_recorder.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/howler@2/dist/howler.min.js"></script>
 </head>
 <body>
   <!-- This script installs service_worker.js to provide PWA functionality to
@@ -36,7 +41,7 @@
   <script>
     if ('serviceWorker' in navigator) {
       window.addEventListener('flutter-first-frame', function () {
-        navigator.serviceWorker.register('flutter_service_worker.js?v=3333255752');
+        navigator.serviceWorker.register('flutter_service_worker.js?v=1476380586');
       });
     }
   </script>
