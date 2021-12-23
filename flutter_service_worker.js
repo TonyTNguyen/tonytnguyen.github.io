@@ -6,7 +6,7 @@ const RESOURCES = {
   "assets/AssetManifest.json": "7b0e0403c0da682ac9068b2fbd3c3c6f",
 "assets/FontManifest.json": "dc3d03800ccca4601324923c0b1d6d57",
 "assets/fonts/MaterialIcons-Regular.otf": "4e6447691c9509f7acdbf8a931a85ca1",
-"assets/NOTICES": "62cb4ef1ee6e5ae8f7a7463a5dc0a7cd",
+"assets/NOTICES": "443b5116435ab3b95da12c53cfc78b15",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "6d342eb68f170c97609e9da345464e5e",
 "assets/packages/flutter_sound_web/js/flutter_sound/flutter_sound.js": "aecd83c80bf4faace0bcea4cd47ab307",
 "assets/packages/flutter_sound_web/js/flutter_sound/flutter_sound_player.js": "c530f4b10d41132dee23ede26280773c",
@@ -15,15 +15,18 @@ const RESOURCES = {
 "assets/packages/flutter_sound_web/js/howler/howler.js": "2bba823e6b4d71ea019d81d384672823",
 "assets/packages/flutter_sound_web/js/howler/howler.min.js": "0245b64fba989b9e3fd5b253f683d0e4",
 "assets/packages/flutter_sound_web/js/howler/howler.spatial.min.js": "28305f7b4898c9b49d523b2e80293ec8",
+"canvaskit/canvaskit.js": "43fa9e17039a625450b6aba93baf521e",
+"canvaskit/canvaskit.wasm": "04ed3c745ff1dee16504be01f9623498",
+"canvaskit/profiling/canvaskit.js": "f3bfccc993a1e0bfdd3440af60d99df4",
+"canvaskit/profiling/canvaskit.wasm": "a9610cf39260f60fbe7524a785c66101",
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
-"index%20-%20Copy.html": "a837cc626f39ec8788851ec87b933f66",
-"index.html": "ffe56260c7a5668a41c4733f8dcd62ed",
-"/": "ffe56260c7a5668a41c4733f8dcd62ed",
-"main.dart.js": "de52883080589c43470e97da90cf9a94",
+"index.html": "5354cee6f26fb9f7ac696b3babfc43a6",
+"/": "5354cee6f26fb9f7ac696b3babfc43a6",
+"main.dart.js": "e2e6d6dd3c6193a8097230632b8c0038",
 "manifest.json": "416d3ae6cfaad2f75753a49b96d04ad2",
-"version.json": "b140f23d11d4996377e9615c0231d840"
+"version.json": "6f74b5efb00c3b8e73c095261bcd6aae"
 };
 
 // The application shell files that are downloaded before a service worker can
